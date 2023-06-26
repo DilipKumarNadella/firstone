@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firstone/static/css/main.9d403e1f.css",
+    "main.js": "/firstone/static/js/main.b11a6d38.js",
+    "static/js/787.7719a04f.chunk.js": "/firstone/static/js/787.7719a04f.chunk.js",
+    "index.html": "/firstone/index.html",
+    "main.9d403e1f.css.map": "/firstone/static/css/main.9d403e1f.css.map",
+    "main.b11a6d38.js.map": "/firstone/static/js/main.b11a6d38.js.map",
+    "787.7719a04f.chunk.js.map": "/firstone/static/js/787.7719a04f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d403e1f.css",
+    "static/js/main.b11a6d38.js"
+  ]
+}
